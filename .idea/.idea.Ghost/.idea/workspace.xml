@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="" />
+    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="Add Shader">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ConeMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ConeMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Dissolve.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Dissolve.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/UfoLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/UfoLight.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 10.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 10.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 12.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 12.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 13.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 13.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 16.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 16.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 5.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 6.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 6.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 7.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 7.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 8.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 8.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Mesh/Little_Ghost_ZOMBANGEL.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Mesh/Little_Ghost_ZOMBANGEL.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ufo_light.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ufo_light.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Light.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Light.shadergraph.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,39 +40,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Pelamushi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pelamushi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ninjasfuchi/Ghost.git",
-    "accountId": "ef6efbbf-75da-4ea7-82ad-6dff00ed29c3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ninjasfuchi/Ghost.git&quot;,
+    &quot;accountId&quot;: &quot;ef6efbbf-75da-4ea7-82ad-6dff00ed29c3&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/itska/OneDrive/Documents/GitHub/Ghost/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.10/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="35NlFNvyFXrRbNpIsp5jsUeQ8s2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Feature/Add__map&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Unity.exe" />
@@ -106,7 +140,27 @@
       <option name="presentableId" value="Default" />
       <updated>1762958310357</updated>
       <workItem from="1762958313498" duration="1068000" />
+      <workItem from="1762976674748" duration="1699000" />
+      <workItem from="1763035415341" duration="77000" />
+      <workItem from="1763035511010" duration="1738000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Shader">
+      <option name="closed" value="true" />
+      <created>1762976718441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762976718441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Shader">
+      <option name="closed" value="true" />
+      <created>1762978582998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762978582998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,4 +174,19 @@
     <option name="unityProjectFolder" value="true" />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Shader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Shader" />
+  </component>
 </project>
