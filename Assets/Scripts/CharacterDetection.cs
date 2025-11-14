@@ -19,12 +19,12 @@ public class CharacterDetection : MonoBehaviour, IDetector
         if (((1 << other.gameObject.layer) & leftObstacle) != 0)
         {
             StopExitCoroutine();
-            OnObstacleStateChanged?.Invoke(ObstacleObjects.LeftWall);
+            OnObstacleStateChanged?.Invoke(ObstacleObjects.LeftObstacle);
         }
         else if (((1 << other.gameObject.layer) & rightObstacle) != 0)
         {
             StopExitCoroutine();
-            OnObstacleStateChanged?.Invoke(ObstacleObjects.RightWall);
+            OnObstacleStateChanged?.Invoke(ObstacleObjects.RightObstacle);
         }
         
         else if (((1 << other.gameObject.layer) & lightObstacle) != 0)

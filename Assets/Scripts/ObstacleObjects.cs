@@ -1,4 +1,4 @@
 ﻿public enum ObstacleObjects
 {
-    LeftWall, RightWall,None,Character,Light
+    LeftObstacle, RightObstacle,None,Character,Light
 }

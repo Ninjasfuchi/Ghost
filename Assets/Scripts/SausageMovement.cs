@@ -45,11 +45,11 @@ public class SausageMovement
                 _rb.rotation = Quaternion.Euler(0, -90, 0);
                 _isAutoRotating = false;
                 break;
-            case ObstacleObjects.RightWall:
+            case ObstacleObjects.RightObstacle:
                 _isAutoRotating = true;
                 _rb.rotation = Quaternion.Euler(0, -90, 0);
                 break;
-            case ObstacleObjects.LeftWall:
+            case ObstacleObjects.LeftObstacle:
                 _isAutoRotating = true;
                 _rb.rotation = Quaternion.Euler(0, 90, 0);
                 break;

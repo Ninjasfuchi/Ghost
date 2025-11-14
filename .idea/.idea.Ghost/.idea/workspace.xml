@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="Add dissolve">
+    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="Add map">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/DissolveMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/DissolveMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ufo_light.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/ufo_light.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterDetection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterDetection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObstacleObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObstacleObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SausageMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SausageMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,8 @@
       <workItem from="1762976674748" duration="1699000" />
       <workItem from="1763035415341" duration="77000" />
       <workItem from="1763035511010" duration="1836000" />
-      <workItem from="1763116927532" duration="443000" />
+      <workItem from="1763116927532" duration="551000" />
+      <workItem from="1763146453337" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="Add Shader">
       <option name="closed" value="true" />
@@ -149,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763063250923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add map">
+      <option name="closed" value="true" />
+      <created>1763117472557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763117472557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Shader" />
     <MESSAGE value="Add dissolve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dissolve" />
+    <MESSAGE value="Add map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add map" />
   </component>
 </project>

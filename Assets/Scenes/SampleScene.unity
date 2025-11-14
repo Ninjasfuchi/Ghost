@@ -1317,7 +1317,7 @@ GameObject:
   - component: {fileID: 629458136}
   - component: {fileID: 629458135}
   - component: {fileID: 629458134}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cube (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1641,7 +1641,7 @@ GameObject:
   - component: {fileID: 672121242}
   - component: {fileID: 672121241}
   - component: {fileID: 672121240}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2083,9 +2083,9 @@ GameObject:
   - component: {fileID: 776884548}
   - component: {fileID: 776884547}
   - component: {fileID: 776884546}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2626,7 +2626,7 @@ Transform:
   m_GameObject: {fileID: 870851243}
   serializedVersion: 2
   m_LocalRotation: {x: 0.17364816, y: 0, z: 0, w: 0.9848078}
-  m_LocalPosition: {x: -0.00000023841858, y: 4.920202, z: -32.716927}
+  m_LocalPosition: {x: 0, y: 4.920202, z: -32.716927}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2649,6 +2649,10 @@ MonoBehaviour:
   leftAngle: -90
   rightAngle: 90
   defaultAngle: 0
+  cam: {fileID: 963194227}
+  minDistance: 10
+  maxDistance: 20
+  virtualCamera: {fileID: 870851244}
 --- !u!114 &870851248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2724,15 +2728,15 @@ MonoBehaviour:
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0
-  m_XDamping: 0.5
-  m_YDamping: 0.5
-  m_ZDamping: 0.5
+  m_XDamping: 1
+  m_YDamping: 1
+  m_ZDamping: 1
   m_TargetMovementOnly: 1
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.66
-  m_DeadZoneHeight: 0.28
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -2776,7 +2780,7 @@ GameObject:
   - component: {fileID: 959331179}
   - component: {fileID: 959331178}
   - component: {fileID: 959331177}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3175,7 +3179,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0.17364816, y: 0, z: 0, w: 0.9848078}
-  m_LocalPosition: {x: -0.00000023841858, y: 4.920202, z: -32.716927}
+  m_LocalPosition: {x: 0, y: 4.920202, z: -32.716927}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3437,7 +3441,7 @@ GameObject:
   - component: {fileID: 1005577378}
   - component: {fileID: 1005577377}
   - component: {fileID: 1005577376}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3761,7 +3765,7 @@ GameObject:
   - component: {fileID: 1010310286}
   - component: {fileID: 1010310285}
   - component: {fileID: 1010310284}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4085,7 +4089,7 @@ GameObject:
   - component: {fileID: 1021954706}
   - component: {fileID: 1021954705}
   - component: {fileID: 1021954704}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4409,7 +4413,7 @@ GameObject:
   - component: {fileID: 1109766760}
   - component: {fileID: 1109766759}
   - component: {fileID: 1109766758}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4898,7 +4902,7 @@ GameObject:
   - component: {fileID: 1443240511}
   - component: {fileID: 1443240510}
   - component: {fileID: 1443240509}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
