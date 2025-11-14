@@ -4,33 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="Add Shader">
+    <list default="true" id="584f134f-38f1-4b08-bdad-4c6e26b64669" name="Changes" comment="Add dissolve">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ghost/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/ConeMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ConeMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Dissolve.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Dissolve.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/UfoLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/UfoLight.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Angel.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 10.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 10.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 12.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 12.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 13.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 13.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 16.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 16.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 6.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 6.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 7.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 7.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 8.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Ghost/Z_Ghost 8.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Material/Haxo/Haxo 3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Mesh/Little_Ghost_ZOMBANGEL.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Monster_Ghosts_FREE/Mesh/Little_Ghost_ZOMBANGEL.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ufo_light.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ufo_light.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/DissolveMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/DissolveMat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shadergraph.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Light.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Light.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ufo_light.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/ufo_light.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +33,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/itska/OneDrive/Documents/GitHub/Ghost/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76b7ca2009dc47a6b89e7ffd655fd50b1fe00/c1/421570ec/Rigidbody.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.10/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
@@ -142,7 +122,8 @@
       <workItem from="1762958313498" duration="1068000" />
       <workItem from="1762976674748" duration="1699000" />
       <workItem from="1763035415341" duration="77000" />
-      <workItem from="1763035511010" duration="1738000" />
+      <workItem from="1763035511010" duration="1836000" />
+      <workItem from="1763116927532" duration="443000" />
     </task>
     <task id="LOCAL-00001" summary="Add Shader">
       <option name="closed" value="true" />
@@ -160,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762978582998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add dissolve">
+      <option name="closed" value="true" />
+      <created>1763063250923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763063250923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Shader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Shader" />
+    <MESSAGE value="Add dissolve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dissolve" />
   </component>
 </project>
